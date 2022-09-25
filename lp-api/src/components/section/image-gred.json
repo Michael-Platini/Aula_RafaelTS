@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_section_image_greds",
+  "info": {
+    "displayName": "Image-gred"
+  },
+  "options": {},
+  "attributes": {
+    "Image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true,
+      "required": true
+    }
+  }
+}
