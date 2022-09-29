@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TextComponent /> should match snapshot 1`] = `
+.c0 {
+  font-size: 2.4rem;
+}
+
+<p
+  class="c0"
+>
+  <h1>
+    Children
+  </h1>
+</p>
+`;
+
+exports[`<TextComponent /> should render a text 1`] = `
+.c0 {
+  font-size: 2.4rem;
+}
+
+<div>
+  <p
+    class="c0"
+  >
+    <h1>
+      Children
+    </h1>
+  </p>
+</div>
+`;
